@@ -1,6 +1,6 @@
 # Smlr - A Simple Image Clustering Script using CLIP and DBSCAN
 
-Smlr is a simple script for machine learning hobbyists looking for a quick way to minimize overrepresentation of concepts in image datasets. This script clusters conceptually similar images in a directory using DBScan on CLIP embeddings.
+Smlr is a simple script for machine learning hobbyists looking for a quick way to minimize overrepresentation of concepts in image datasets. This script clusters conceptually similar images in a directory using DBScan with CLIP embeddings.
 
 ## Requirements
 
