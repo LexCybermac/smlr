@@ -53,4 +53,4 @@ After running the script, you'll find the clustered images in separate folders w
 - While I've tested this script a fair few times and not had suffered any data loss it's always a good practise to have your data backed up in at least one place.
 
 ## Thanks
-Cheers to [Theodoros Ntakouris](https://github.com/ntakouris) for outlining a clear starting point for this script in his [Medium article](https://zarkopafilis.medium.com/image-deduplication-using-openais-clip-and-community-detection-2504f0437e7e)
+Cheers to [Theodoros Ntakouris](https://github.com/ntakouris) for outlining a clear starting point for this script in his [Medium article](https://zarkopafilis.medium.com/image-deduplication-using-openais-clip-and-community-detection-2504f0437e7e).
