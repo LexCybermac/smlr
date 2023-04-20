@@ -51,3 +51,6 @@ After running the script, you'll find the clustered images in separate folders w
 - The default CLIP model and batch size are selected based on what runs well on a 24 GB RTX 3090. Users with less VRAM may encounter OOM errors with these settings. If you have a less powerful graphics card, try starting with a batch size of 32 and the `clip-vit-base-patch32` model, and then work up (or down) from there until you find what works best for you.
 - Different CLIP models may require different eps values to work well.
 - While I've tested this script a fair few times and not had suffered any data loss it's always a good practise to have your data backed up in at least one place.
+
+## Thanks
+Cheers to [Theodoros Ntakouris](https://github.com/ntakouris) for outlining a clear starting point for this script in his [Medium article](https://zarkopafilis.medium.com/image-deduplication-using-openais-clip-and-community-detection-2504f0437e7e)
